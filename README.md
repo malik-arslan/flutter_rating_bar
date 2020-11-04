@@ -1,4 +1,4 @@
-# video_tutorial
+# Flutter Rating Bar
 
 A new Flutter project.
 
